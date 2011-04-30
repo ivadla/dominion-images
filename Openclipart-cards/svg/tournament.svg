@@ -1285,14 +1285,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <filter
-       inkscape:collect="always"
-       id="filter4103">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="11.085995"
-         id="feGaussianBlur4105" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1302,16 +1294,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5573105"
-     inkscape:cx="10.081977"
-     inkscape:cy="165.02811"
+     inkscape:cx="-77.248071"
+     inkscape:cy="267.76934"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1279"
-     inkscape:window-height="737"
-     inkscape:window-x="234"
-     inkscape:window-y="88"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1912"
+     inkscape:window-height="1049"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3497">
     <rdf:RDF>
@@ -1320,7 +1312,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1337,6 +1329,13 @@
        x="107.68179"
        y="77.083649"
        ry="2.156446" />
+    <image
+       y="107.04091"
+       x="156.76114"
+       id="image5082"
+       xlink:href="tournament_Codex_Manesse_081_Walther_von_Klingen.jpg"
+       height="111.96171"
+       width="113.16931" />
     <g
        inkscape:label="Layer 1"
        id="g5070"
@@ -2011,7 +2010,7 @@
          x="208.49663"
          y="309.40619"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L"
-         id="tspan9239">or a duchy, putting it on top</tspan><tspan
+         id="tspan9239">or a Duchy, putting it on top</tspan><tspan
          sodipodi:role="line"
          x="208.49663"
          y="324.40619"

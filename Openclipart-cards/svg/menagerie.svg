@@ -1294,16 +1294,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5573105"
-     inkscape:cx="10.081977"
+     inkscape:cx="-77.248071"
      inkscape:cy="165.02811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1279"
-     inkscape:window-height="737"
-     inkscape:window-x="330"
-     inkscape:window-y="86"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1912"
+     inkscape:window-height="1049"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3497">
     <rdf:RDF>
@@ -1312,7 +1312,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1329,6 +1329,13 @@
        x="107.68179"
        y="77.083649"
        ry="2.156446" />
+    <image
+       xlink:href="menagerie_Versailles_M2.jpg"
+       width="193.06158"
+       height="121.30703"
+       id="image3444"
+       x="116.815"
+       y="112.68796" />
     <g
        inkscape:label="Layer 1"
        id="g5070"

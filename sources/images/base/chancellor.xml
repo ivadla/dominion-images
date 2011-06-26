@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>johnny_automatic_greedy_man.svg</file>
+  <scale>0.9</scale>
+  <shadow>5.7</shadow>
+  <behindTextBackground>true</behindTextBackground>
+</cardImage>

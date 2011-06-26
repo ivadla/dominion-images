@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>envoy.svg</file>
+  <scale>0.96</scale>
+  <behindTextBackground>true</behindTextBackground>
+</cardImage>

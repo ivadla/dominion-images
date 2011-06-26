@@ -1,0 +1,147 @@
+Card	Filename	Source
+promo/
+promo/black market	egore911_market.svg	http://www.openclipart.org/detail/27067	(modified: turned black)
+promo/envoy looks like a remix of Peileppe_Delfador.svg, the image for baron
+promo/stash	bau_guardar_2.svg	http://www.openclipart.org/detail/99205/treasure-chest-by-jcjacob
+promo/walled village	nicubunu_RPG_map_symbols_City.svg	http://www.openclipart.org/detail/11437/rpg-map-symbols:-city-by-nicubunu
+
+base/
+base/adventurer	Peileppe_Konrad_Chibi.svg	http://www.openclipart.org/detail/19791
+base/bureaucrat	liftarn_English_lawyer_early_20th_century.svg	http://www.openclipart.org/detail/1041	(modified:colorized)
+base/cellar	trapdoor.svg	http://www.openclipart.org/detail/43993/trapdoor-by-hextrust
+base/chancellor	johnny_automatic_greedy_man.svg	http://www.openclipart.org/detail/741
+base/chapel	nicubunu_RPG_map_symbols_Cathedral.svg	http://www.openclipart.org/detail/11428
+base/council room	kattekrab_Crowd.svg	http://www.openclipart.org/detail/22519	(modified)
+base/feast	tramezzino.svg	http://www.openclipart.org/detail/34861
+base/festival	nicubunu_RPG_map_symbols_Circus_Tent.svg	http://www.openclipart.org/detail/11434	
+base/gardens	johnny_automatic_orange_branch.svg	http://www.openclipart.org/detail/7363
+base/laboratory	DynV_Laboratory_image_1.svg	http://www.openclipart.org/detail/15553 (modified)
+base/library	nicubunu_RPG_map_symbols_University.svg	http://www.openclipart.org/detail/11539
+base/market	egore911_market.svg	http://www.openclipart.org/detail/27067
+base/militia	Peileppe_footman_4.svg	http://www.openclipart.org/detail/11341
+base/mine	nicubunu_RPG_map_symbols_Mine.svg	http://www.openclipart.org/detail/11479
+base/moat	nicubunu_RPG_map_symbols_Gate.svg	http://www.openclipart.org/detail/11461 (modified)
+base/moneylender	mystica_Coins_(Money).svg	http://www.openclipart.org/detail/14394
+base/remodel	nicubunu_RPG_map_symbols_Ruins.svg	http://www.openclipart.org/detail/11494
+base/smithy	nicubunu_RPG_map_symbols_Blacksmith.svg	http://www.openclipart.org/detail/11410
+base/spy	spy_p.svg	http://www.openclipart.org/detail/48583
+base/thief	Peileppe_Rogue_character.svg	http://www.openclipart.org/detail/16553
+base/throne room	johnny_automatic_Princess_Rosette.svg	http://www.openclipart.org/detail/6113 (modified)
+base/village	nicubunu_RPG_map_symbols_Village.svg	http://www.openclipart.org/detail/11542
+base/witch	Peileppe_Sorcerer_Chibi.svg	http://www.openclipart.org/detail/20092
+base/woodcutter	arbol_oak.svg wasat_Whipsaw.svg	http://www.openclipart.org/detail/35605/colored-oak-tree-by-rg1024 http://www.openclipart.org/detail/19727/whipsaw-by-wasat (modified:combined)
+base/workshop	SnarkHunter_Hammer_and_Nails.svg	http://www.openclipart.org/detail/20591
+intrigue/
+intrigue/baron	Peileppe_Delfador.svg	http://www.openclipart.org/detail/16748
+intrigue/bridge	nicubunu_RPG_map_symbols_stone_bridge.svg	http://www.openclipart.org/detail/11416
+intrigue/conspirator	liftarn_Masked_man.svg	http://www.openclipart.org/detail/1319
+intrigue/coppersmith	Gerald_G_Blacksmith_and_tools.svg	http://www.openclipart.org/detail/8388
+intrigue/courtyard	nicubunu_RPG_map_symbols_Gate.svg	http://www.openclipart.org/detail/11461 (modified: grass/park added)
+intrigue/duke	Peileppe_Delfador_Chibi.svg	http://www.openclipart.org/detail/19811 (modified: staff removed)
+intrigue/great hall	Anonymous_Architetto_--_Ballerina.svg	http://www.openclipart.org/detail/25086	(modified:hall with columns added)
+intrigue/harem	witchlines_Sexy_Super_WOman.svg	http://www.openclipart.org/detail/sexy-super-woman-by-witchlines	(modified:two more women added)
+intrigue/ironworks	ryanlerch_sword_battleaxe_shield.svg	http://www.openclipart.org/detail/4286	(modified:shield in foreground and color of axeblade changed)
+intrigue/masquerade	wasat_Theatre_Masks.svg	http://www.openclipart.org/detail/27930
+intrigue/mining village	nicubunu_RPG_map_symbols_Watchtower.svg nicubunu_RPG_map_symbols_Cave_Entrance.svg nicubunu_RPG_map_symbols_mountains_3.svg nicubunu_RPG_map_symbols_mountains_2.svg	http://www.openclipart.org/detail/11548	http://www.openclipart.org/detail/11431 http://www.openclipart.org/detail/9454 http://www.openclipart.org/detail/9452 (modified:combined)
+intrigue/minion	StefanvonHalenbach_Fencer.svg	http://www.openclipart.org/detail/11301/fencer-by-stefanvonhalenbach-11301	(modified:colors changed)
+intrigue/nobles	liftarn_Barett.svg	http://www.openclipart.org/detail/1043	(modified:colorized)
+intrigue/pawn	Chrisdesign_Chessfigures.svg	http://www.openclipart.org/detail/8698	(modified:only yellow pawn used)
+intrigue/saboteur	johnny_automatic_the_wanderer.svg	http://www.openclipart.org/detail/10673	(modified:colorized)
+intrigue/scout	johnny_automatic_native_tracker.svg	http://www.openclipart.org/detail/19278/native-tracker-by-johnny_automatic-19278 (modified:colorized)
+intrigue/secret chamber	FEN_bedroom_eyes.svg Chrisdesign_gold_frames_set.svg	http://www.openclipart.org/detail/1166/bedroom-eyes-by-fen http://www.openclipart.org/detail/19331/gold-frames-set-by-chrisdesign-19331	(modified:combined and colorized)
+intrigue/shanty town	nicubunu_RPG_map_symbols_Jailhouse.svg	http://www.openclipart.org/detail/12047
+intrigue/steward	Anonymous_Slate_Apple.svg	http://www.openclipart.org/detail/26277
+intrigue/swindler	melwe_thief.svg	http://www.openclipart.org/detail/19753
+intrigue/torturer	Peileppe_Orc_chibi.svg	http://www.openclipart.org/detail/19992
+intrigue/trading post	nicubunu_RPG_map_symbols_caravan_wreck.svg	Peileppe_konrad_(adaptation).svg	http://www.openclipart.org/detail/11425 http://www.openclipart.org/detail/Peileppe_konrad_%28adaptation%29.svg (dead link) (modified: combined)
+intrigue/tribute	nicubunu_RPG_map_symbols_Townhall.svg	http://www.openclipart.org/detail/11536
+intrigue/upgrade	nicubunu_RPG_map_symbols_Statue.svg	http://www.openclipart.org/detail/11512
+intrigue/wishing well	nicubunu_RPG_map_symbols_Wishing_Well.svg	http://www.openclipart.org/detail/11554
+seaside/
+seaside/ambassador	Gerald_G_Man_in_Suit.svg	http://www.openclipart.org/detail/395
+seaside/bazaar		qubodup_Cartoon_tipi_tent_with_red_flag.svg	http://www.openclipart.org/detail/12920 (modified:some parts from the market image added)
+seaside/caravan	nicubunu_RPG_map_symbols_a_caravan.svg	http://www.openclipart.org/detail/11413 (modified:fire and horse added)
+seaside/cutpurse	melwe_purse.svg	http://www.openclipart.org/detail/19761	(modified:colorized, coins from moneylender and knife added)
+seaside/embargo		Chrisdesign_Sea_scene_with_boat.svg	http://www.openclipart.org/detail/5418	(modified:background removed, color and number of birds changed)
+seaside/explorer	oksmith_ship_of_the_line.svg	http://www.openclipart.org/detail/26413/ship-of-the-line-by-oksmith	(modified:colorized)
+seaside/fishing village	nicubunu_RPG_map_symbols_Fishery.svg	http://www.openclipart.org/detail/11446
+seaside/ghost ship	nicubunu_RPG_map_symbols_Shipwreck.svg	http://www.openclipart.org/detail/11497
+seaside/haven	nicubunu_RPG_map_symbols_Docks.svg	http://www.openclipart.org/detail/11440
+seaside/island	johnny_automatic_desert_isle.svg	http://www.openclipart.org/detail/26143	(modified:background removed)
+seaside/lighthouse	johnny_automatic_Minot_s_ledge_light.svg	http://www.openclipart.org/detail/11102	(modified:colorized)
+seaside/lookout	johnny_automatic_sailor_in_crow_s_nest_using_spyglass.svg	http://www.openclipart.org/detail/26615 (modified: colorized and birds removed)
+seaside/merchant ship	Anonymous_Boat_1.svg	http://www.openclipart.org/detail/24418
+seaside/native village	nicubunu_RPG_map_symbols_Hunter.svg	http://www.openclipart.org/detail/11467
+seaside/navigator	shokunin_World_Map.svg coder7_Square_and_Compasses.svg Anonymous_Architetto_--_Bussola.svg	http://www.openclipart.org/detail/19011 http://www.openclipart.org/detail/15800 http://www.openclipart.org/detail/25199	(modified:color of worldmap changed and combined with other images)
+seaside/outpost	nicubunu_RPG_map_symbols_Round_Tower_with_Flag.svg	http://www.openclipart.org/detail/11530 (modified: mountain added)
+seaside/pearl diver	Muga_Deep_Diver.svg	http://www.openclipart.org/detail/20442
+seaside/pirate ship	mystica_Pirate-ship.svg	http://www.openclipart.org/detail/16832
+seaside/salvager	AJ_Recycling_Bin.svg	http://www.openclipart.org/detail/17934	(modified:some colors changed)
+seaside/sea hag	Peileppe_Necromancer_Chibi.svg	http://www.openclipart.org/detail/20013	(modified:red eyes)
+seaside/smugglers
+seaside/tactician	shokunin_World_Map.svg	http://www.openclipart.org/detail/19011	(modified:arrows added)
+seaside/treasure map	treasure_map.svg	http://www.openclipart.org/detail/44005 (modified:rotated)
+seaside/treasury	treasurchest.svg	http://www.openclipart.org/detail/43999
+seaside/warehouse	nicubunu_RPG_map_symbols_Warehouse.svg	http://www.openclipart.org/detail/11545
+seaside/wharf	johnny_automatic_dockside.svg	http://www.openclipart.org/detail/10994
+alchemy/
+alchemy/alchemist	hrum_gold.svg	http://www.openclipart.org/detail/19182 (modified)
+alchemy/apothecary	StefanvonHalenbach_Eyeball_blue_realistic.svg olagosta_Mortar_with_pestle.svg	http://www.openclipart.org/detail/16737 http://www.openclipart.org/detail/28388 (modified:combined together with pills)
+alchemy/apprentice	ossidiana_boy_illustration.svg	http://www.openclipart.org/detail/19889
+alchemy/familiar	johnny_automatic_black_cat_1.svg	http://www.openclipart.org/detail/1254 (modified:color of eyes changed to yellow)
+alchemy/golem	Golem.svg	http://www.openclipart.org/detail/golem-by-hextrust
+alchemy/herbalist	Hippie.svg	http://www.openclipart.org/detail/hippie-by-hextrust
+alchemy/philosophers stone	karthikeyan_Ruby.svg	http://www.openclipart.org/detail/17660/ruby-by-karthikeyan (modified: reflection removed and shadow added)
+alchemy/possession	Dug_Puppets.svg	http://www.openclipart.org/detail/26041
+alchemy/potion	papapishu_Lab_icon_1.svg	http://www.openclipart.org/detail/22734	(modified:color)
+alchemy/scrying pool
+alchemy/transmute	wolf02.svg rg1024_Moon_in_comic_style.svg	http://www.openclipart.org/detail/39715 http://www.openclipart.org/detail/20299 (modified: image of boy missing)
+alchemy/university	johnny_automatic_small_Alsatian_tower.svg	http://www.openclipart.org/detail/9228	(modified:colorized)
+alchemy/vineyard	maven_grapes.svg	http://www.openclipart.org/detail/20677	(modified:colorized)
+prosperity/
+prosperity/bank	banca_euro.svg	http://www.openclipart.org/detail/33727
+prosperity/bishop	melwe_priest.svg	http://www.openclipart.org/detail/19748
+prosperity/city	building_03.svg	http://www.openclipart.org/detail/41581
+prosperity/colony
+prosperity/contraband	wooden_barrel_petri_lumm_01.svg 1280651507.svg rpgsword.svg StefanvonHalenbach_Battle_axe_medieval.svg	wooden_barrel_petri_lumm_01.svg http://www.openclipart.org/detail/75745/jewellery-box-by-wakro http://www.openclipart.org/detail/120709/an-old-style-rpg-sword-by-mt3djim http://www.openclipart.org/detail/17286/battle-axe-medieval-by-stefanvonhalenbach (modified:combined)
+prosperity/counting house	ArtFavor_Money_stack_of_coins.svg	http://www.openclipart.org/detail/940
+prosperity/expand
+prosperity/forge	johnny_automatic_pouring_metal_into_molds.svg	http://www.openclipart.org/detail/15449
+prosperity/goons	kablam_Thug.svg	http://www.openclipart.org/detail/27915	(modified)
+prosperity/grand market	Market_ancient_full.png Market_ancient.blend	http://svn.berlios.de/viewvc/lincity-ng/trunk/data/models/Market_ancient.blend?view=markup&pathrev=1477	dual licensed under under the GPL and CC-by-sa-v2 Author:Ivar ten Cate <varivar At gmail d0t com>
+prosperity/hoard	skullandmoney.svg	http://www.openclipart.org/detail/48793
+prosperity/kings court	ryanlerch_Alice_In_Wonderland_-_1_-_royal_court.svg	http://www.openclipart.org/detail/944
+prosperity/loan	ArtFavor_Fist_full_of_money.svg	http://www.openclipart.org/detail/936
+prosperity/mint	johnny_automatic_U._S._Mint.svg	http://www.openclipart.org/detail/16533
+prosperity/monument	nicubunu_RPG_map_symbols_Arch.svg	http://www.openclipart.org/detail/11407
+prosperity/mountebank	the_travelling_quack.jpg	http://www.flickr.com/photos/42186300@N07/3986939213/in/set-72157622529478542/ (license:CC BY 2.0 By electrons_fishgils)
+prosperity/peddler
+prosperity/platinum
+prosperity/quarry	quarryman.svg	http://www.openclipart.org/detail/45727
+prosperity/rabble
+prosperity/royal seal	1293729497.svg	http://www.openclipart.org/detail/102619
+prosperity/talisman	lucky_charm.svg	http://www.openclipart.org/detail/126415
+prosperity/trade route	cibo00_International_Network_(2).svg	http://www.openclipart.org/detail/14751
+prosperity/vault	nicubunu_RPG_map_symbols_Pyramid.svg	http://www.openclipart.org/detail/11491/rpg-map-symbols:-pyramid-by-nicubunu
+prosperity/venture	jp-adveturer.svg	http://www.openclipart.org/detail/71197/adventurer-by-jpneok
+prosperity/watchtower	nicubunu_RPG_map_symbols_Round_Tower.svg	http://www.openclipart.org/detail/11527
+prosperity/workers village	bauarbeiter.svg	http://openclipart.org/detail/91543/blue-worker-by-bugmenot
+cornucopia/
+cornucopia/bag of gold	saco.svg coin_pile_gold.svg	http://www.openclipart.org/detail/31207/money-bag-by-rg1024 http://www.openclipart.org/detail/43969/pile-of-golden-coins-by-j_alves	(modified:combined)
+cornucopia/diadem	Anonymous_Crown.svg	http://www.openclipart.org/detail/23859/crown-by-anonymous-23859
+cornucopia/fairgrounds	ryanlerch_themepark.svg	http://www.openclipart.org/detail/657/themepark-by-ryanlerch
+cornucopia/farming village	nicubunu_RPG_map_symbols_Farm.svg	http://www.openclipart.org/detail/11443/rpg-map-symbols:-farm-by-nicubunu
+cornucopia/followers	trumpetsinthestreet.svg	http://www.openclipart.org/detail/117949/trumpets-in-the-street-by-j4p4n
+cornucopia/fortune teller	liftarn_Witch_with_crystal_ball.svg	http://www.openclipart.org/detail/1232/witch-with-crystal-ball-by-liftarn	(modified:color added to crystal ball)
+cornucopia/hamlet	faal_autum.svg autumn_tree.svg autumn_leaves.svg nicubunu_RPG_map_symbols_Stables.svg nicubunu_RPG_map_symbols_Tavern.svg nicubunu_RPG_map_symbols_Inn.svg nicubunu_RPG_map_symbols_Inn.svg http://www.openclipart.org/detail/81643/autumn-leaves-by-johnny_automatic http://www.openclipart.org/detail/78925/autumn-tree-by-laobc http://www.openclipart.org/detail/82261/maple-autumn-by-shokunin http://www.openclipart.org/detail/11509/rpg-map-symbols:-stables-by-nicubunu http://www.openclipart.org/detail/11518/rpg-map-symbols:-tavern-by-nicubunu http://www.openclipart.org/detail/11470/rpg-map-symbols:-inn-by-nicubunu (modfied: combined and house from village image added)
+cornucopia/harvest	jackolantern_fred_simanek.svg	http://www.openclipart.org/detail/89383/jack-o%E2%80%99-lantern:-fred-by-simanek
+cornucopia/horn of plenty	thanksgiving03.svg	http://www.openclipart.org/detail/94183/thanksgiving-day-icon-by-nicubunu-94183
+cornucopia/horse traders	johnny_automatic_horse_camp.svg	http://www.openclipart.org/detail/9301/horse-camp-by-johnny_automatic
+cornucopia/hunting party	johnny_automatic_boar_hunt.svg	http://www.openclipart.org/detail/17451/boar-hunt-by-johnny_automatic	(modified:croped)
+cornucopia/jester	johnny_automatic_jester.svg	http://www.openclipart.org/detail/1003/jester-by-johnny_automatic
+cornucopia/menagerie	Versailles_M2.JPG	https://secure.wikimedia.org/wikipedia/commons/wiki/File:Versailles_M2.JPG
+cornucopia/princess	princess.svg	http://www.openclipart.org/detail/124225/princess-by-tzunghaor
+cornucopia/remake	scala_doppia.svg Anonymous_Architetto_--_Carretta_da_cantiere.svg	http://www.openclipart.org/detail/34207/rchitetto----scala-doppia-by-anonymous http://www.openclipart.org/detail/25396/architetto----carretta-da-cantiere-by-anonymous-25396	(modified:combined)
+cornucopia/tournament	Codex_Manesse_081_Walther_von_Klingen_(detail_2).jpg	https://secure.wikimedia.org/wikipedia/commons/wiki/File:Codex_Manesse_081_Walther_von_Klingen_%28detail_2%29.jpg
+cornucopia/trusty steed	horse02.svg	http://www.openclipart.org/detail/39949/horse-2-by-artfavor
+cornucopia/young witch	1307032260.svg	http://www.openclipart.org/detail/141931/witch-by-tzunghaor	(modified: background removed)

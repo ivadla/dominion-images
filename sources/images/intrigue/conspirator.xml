@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>liftarn_Masked_man_modified.svg</file>
+  <scale>0.92</scale>
+  <shadow>5.7</shadow>
+  <behindTextBackground>false</behindTextBackground>
+</cardImage>

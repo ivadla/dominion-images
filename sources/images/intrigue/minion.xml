@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>StefanvonHalenbach_Fencer.svg</file>
+  <scale>1.5</scale>
+  <behindTextBackground>true</behindTextBackground>
+</cardImage>

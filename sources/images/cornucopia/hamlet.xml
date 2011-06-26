@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>hamlet.svg</file>
+  <scale>0.95</scale>
+  <behindTextBackground>false</behindTextBackground>
+</cardImage>

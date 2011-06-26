@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>scout.svg</file>
+  <scale>1.4</scale>
+  <behindTextBackground>true</behindTextBackground>
+</cardImage>

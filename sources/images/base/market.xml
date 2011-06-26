@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>egore911_market.svg</file>
+  <scale>1.1</scale>
+  <shadow>11</shadow>
+  <behindTextBackground>false</behindTextBackground>
+</cardImage>

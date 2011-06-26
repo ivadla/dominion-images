@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>mining village.svg</file>
+  <behindTextBackground>false</behindTextBackground>
+</cardImage>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/CardImage" xmlns:tns="http://www.example.org/CardImage" elementFormDefault="qualified">
+
+    <element name="cardImage" type="tns:cardImageType"></element>
+    
+    <complexType name="cardImageType">
+    	<sequence>
+    		<element name="file" type="string" maxOccurs="1"
+    			minOccurs="1">
+    		</element>
+    		<element name="scale" type="float" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+            <element name="shadow" type="float" maxOccurs="1" minOccurs="0"></element>
+            <element name="behindTextBackground" type="boolean"
+    			maxOccurs="1" minOccurs="1">
+    		</element>
+    	</sequence>
+    </complexType>
+</schema>

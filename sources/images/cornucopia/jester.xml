@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>johnny_automatic_jester.svg</file>
+  <scale>2</scale>
+  <behindTextBackground>true</behindTextBackground>
+</cardImage>

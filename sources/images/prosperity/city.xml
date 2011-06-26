@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+<!-- 	<file>building_03.svg</file> -->
+<!-- 	<scale>0.81</scale> -->
+<file>city/city03.svg</file>
+<scale>0.98</scale>
+<shadow>8</shadow>
+	<behindTextBackground>false</behindTextBackground></cardImage>

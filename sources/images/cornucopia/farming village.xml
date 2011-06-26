@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>nicubunu_RPG_map_symbols_Farm_modified.svg</file>
+  <shadow>2</shadow>
+  <scale>0.96</scale>
+  <behindTextBackground>false</behindTextBackground>
+</cardImage>

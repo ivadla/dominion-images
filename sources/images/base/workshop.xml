@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+  <file>SnarkHunter_Hammer_and_Nails.svg</file>
+  <shadow>8.5</shadow>
+  <behindTextBackground>false</behindTextBackground>
+</cardImage>

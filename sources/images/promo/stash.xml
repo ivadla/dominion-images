@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+	<file>bau_guardar_2_modified.svg</file>
+	<scale>0.85</scale>
+	<behindTextBackground>true</behindTextBackground></cardImage>

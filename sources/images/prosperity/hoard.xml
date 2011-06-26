@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
+	<file>skullandmoney.svg</file>
+	<scale>0.9</scale>
+	<behindTextBackground>false</behindTextBackground></cardImage>

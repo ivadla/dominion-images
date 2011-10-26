@@ -7,8 +7,10 @@
 	<template type="duration">duration-template.svg</template>
 	<template type="reaction">reaction-template.svg</template>
 	<template type="treasure">treasure-template.svg</template>
+	<template type="treasure-reaction">treasure-reaction-template.svg</template>
 	<template type="treasure-victory">treasure-victory-template.svg</template>
 	<template type="victory">victory-template.svg</template>
+	<template type="victory-reaction">victory-reaction-template.svg</template>
 	<maxTextWidth>160</maxTextWidth>
 	<coinImage>coin_inline.svg</coinImage>
 	<victoryPointImage>victoryPoint_inline.svg</victoryPointImage></config>

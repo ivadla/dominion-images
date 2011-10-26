@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
   <file>Portrait_of_Jiang_Shunfu.jpg</file>
-  <behindTextBackground>false</behindTextBackground>
+  <behindTextBackground>true</behindTextBackground>
 </cardImage>

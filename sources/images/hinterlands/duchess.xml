@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
   <file>principessa.svg</file>
-  <behindTextBackground>false</behindTextBackground>
+  <behindTextBackground>true</behindTextBackground>
 </cardImage>

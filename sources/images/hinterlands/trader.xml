@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
-  <file>../placeholder.svg</file>
-  <behindTextBackground>false</behindTextBackground>
+  <file>shop.svg</file>
+  <scale>0.85</scale>
+  <behindTextBackground>true</behindTextBackground>
 </cardImage>

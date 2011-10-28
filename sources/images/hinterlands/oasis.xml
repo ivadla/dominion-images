@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
   <file>Palm2.svg</file>
+  <shadow>2</shadow>
   <behindTextBackground>false</behindTextBackground>
 </cardImage>

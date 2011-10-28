@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
-  <file>Pyrite-271351.png</file>
-  <behindTextBackground>true</behindTextBackground>
+  <file>Pyrite-271351_modified.png</file>
+  <shadow>7</shadow>
+  <behindTextBackground>false</behindTextBackground>
 </cardImage>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
   <file>melwe_goldsmith.svg</file>
+  <shadow>5</shadow>
   <behindTextBackground>true</behindTextBackground>
 </cardImage>

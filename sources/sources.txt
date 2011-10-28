@@ -2,6 +2,7 @@ Card	Filename	Source
 promo/
 promo/black market	egore911_market.svg	http://www.openclipart.org/detail/27067	(modified: turned black)
 promo/envoy looks like a remix of Peileppe_Delfador.svg, the image for baron
+promo/governor  MrFixNo01.svg   http://www.openclipart.org/detail/157573/mr-fix-01-by-rones
 promo/stash	bau_guardar_2.svg	http://www.openclipart.org/detail/99205/treasure-chest-by-jcjacob
 promo/walled village	nicubunu_RPG_map_symbols_City.svg	http://www.openclipart.org/detail/11437/rpg-map-symbols:-city-by-nicubunu
 
@@ -145,3 +146,29 @@ cornucopia/remake	scala_doppia.svg Anonymous_Architetto_--_Carretta_da_cantiere.
 cornucopia/tournament	Codex_Manesse_081_Walther_von_Klingen_(detail_2).jpg	https://secure.wikimedia.org/wikipedia/commons/wiki/File:Codex_Manesse_081_Walther_von_Klingen_%28detail_2%29.jpg
 cornucopia/trusty steed	horse02.svg	http://www.openclipart.org/detail/39949/horse-2-by-artfavor
 cornucopia/young witch	1307032260.svg	http://www.openclipart.org/detail/141931/witch-by-tzunghaor	(modified: background removed)
+hinterlands/border village
+hinterlands/cache	mystica_Treasure-chest.svg	???
+hinterlands/cartographer	margodth_TEG.svg	http://www.openclipart.org/detail/16201/teg-by-margodth
+hinterlands/crossroads	nicubunu_RPG_map_symbols_Crossroads_Sign.svg	http://www.openclipart.org/detail/11500/rpg-map-symbols:-crossroads-sign-by-nicubunu
+hinterlands/develop
+hinterlands/duchess	principessa.svg	http://www.openclipart.org/detail/33433/architetto----principessa-by-anonymous
+hinterlands/embassy building_12.svg http://www.openclipart.org/detail/41635/building-12-by-artfavor
+hinterlands/farmland	paisaje.svg	http://www.openclipart.org/detail/31861/landscape-with-red-farm-by-rg1024	(modified:removed garbage,black border and made the edge strait)
+hinterlands/fools gold	Pyrite-271351.jpg   https://commons.wikimedia.org/wiki/File:Pyrite-271351.jpg (by Rob Lavinsky)	(modified: background removed)
+hinterlands/haggler
+hinterlands/highway	country-side.svg	http://www.openclipart.org/detail/71455/country-side-by-netalloy
+hinterlands/ill-gotten gains
+hinterlands/inn	nicubunu_RPG_map_symbols_Inn.svg	http://www.openclipart.org/detail/11470/rpg-map-symbols:-inn-by-nicubunu
+hinterlands/jack of all trades	card_trick_colorized.svg	http://www.openclipart.org/detail/62899/card-trick-colorized-by-eady
+hinterlands/mandarin	Portrait_of_Jiang_Shunfu.jpg	https://secure.wikimedia.org/wikipedia/en/wiki/File:Portrait_of_Jiang_Shunfu.jpg
+hinterlands/margrave	KarelFrederikBaden.jpg	https://commons.wikimedia.org/wiki/File:KarelFrederikBaden.jpg	(modified: cropped)
+hinterlands/noble brigand	chovynz_OCAL_Userpic_RobinHood.svg	http://www.openclipart.org/detail/25550/ocal_userpic_robin_hood_with_nice_arrows_and_stuff_to_see_another_test-by-chovynz
+hinterlands/nomad camp	nicubunu_RPG_map_symbols_Tent.svg	http://www.openclipart.org/detail/11521/rpg-map-symbols:-tent-by-nicubunu
+hinterlands/oasis	Palm2.svg	http://www.openclipart.org/detail/86761/palm-tree-by-stevepetmonkey
+hinterlands/oracle
+hinterlands/scheme	oldmensclub.svg	http://www.openclipart.org/detail/161671/old-mens-club-by-j4p4n
+hinterlands/silk road   Everyday_Life_in_Old_China_15.jpg   https://commons.wikimedia.org/wiki/File:Everyday_Life_in_Old_China_15.jpg	(modified: background removed)
+hinterlands/spice merchant	melwe_goldsmith.svg	http://www.openclipart.org/detail/19746/goldsmith-by-melwe
+hinterlands/stables	nicubunu_RPG_map_symbols_Stables.svg	http://www.openclipart.org/detail/11509/rpg-map-symbols:-stables-by-nicubunu
+hinterlands/trader  shop.svg    http://www.openclipart.org/detail/76267/shop-front-icon-by-shokunin
+hinterlands/tunnel	tunnel.svg       http://www.openclipart.org/detail/11479	(modified: only used tunnel entrance)

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
-  <file>../placeholder.svg</file>
+  <file>mystica_Treasure-chest.svg</file>
+  <scale>0.9</scale>
   <behindTextBackground>false</behindTextBackground>
 </cardImage>

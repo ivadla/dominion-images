@@ -27,15 +27,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="80.88142"
-     inkscape:cy="179.80718"
+     inkscape:cy="153.75046"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1169"
-     inkscape:window-height="1024"
-     inkscape:window-x="632"
-     inkscape:window-y="91"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1912"
+     inkscape:window-height="1049"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5125">
     <rdf:RDF>
@@ -61,41 +61,42 @@
        y="0"
        ry="2.156446" />
     <image
+       
        xlink:href="cardBackground-victory_gradient.svg"
-       id="cardBackground"
-       x="0.2"
-       y="0"
-       height="330"
+       preserveAspectRatio="none"
        width="211"
-       preserveAspectRatio="none" />
+       height="330"
+       y="0"
+       x="0.2"
+       id="cardBackground" />
     <image
        
        xlink:href="revans2_Landscape_Parchment_Background.svg"
-       id="textBackground"
-       x="0.2"
-       y="131"
-       height="165.77499"
+       preserveAspectRatio="none"
        width="211.558"
-       preserveAspectRatio="none" />
+       height="165.77499"
+       y="131"
+       x="0.2"
+       id="textBackground" />
     <image
        
        xlink:href="label-background-victory.svg"
-       id="typeBackground"
-       x="0.2"
-       y="289.905"
-       height="40.095001"
-       width="211.558"
+       viewBox="0 0 211 40"
        preserveAspectRatio="none"
-       viewBox="0 0 211 40" />
+       width="211.558"
+       height="40.095001"
+       y="289.905"
+       x="0.2"
+       id="typeBackground" />
     <image
        
        xlink:href="coin.svg"
-       width="30.620001"
-       height="36.614357"
-       y="297.01062"
-       x="0.70000076"
+       preserveAspectRatio="none"
        id="priceBackground"
-       preserveAspectRatio="none" />
+       x="0.70000076"
+       y="297.01062"
+       height="36.614357"
+       width="30.620001" />
     <path
        sodipodi:nodetypes="cc"
        id="labelTextPath"
@@ -105,21 +106,21 @@
     <image
        
        xlink:href="green_square.png"
-       id="cardImage"
-       x="5.5"
-       y="30"
-       height="130"
+       preserveAspectRatio="none"
        width="200"
-       preserveAspectRatio="none" />
+       height="130"
+       y="30"
+       x="5.5"
+       id="cardImage" />
     <image
        
        xlink:href="label-background-victory.svg"
-       width="211.558"
-       height="40.095001"
-       y="0"
-       x="0.2"
+       preserveAspectRatio="none"
        id="titleBackground"
-       preserveAspectRatio="none" />
+       x="0.2"
+       y="0"
+       height="40.095001"
+       width="211.558" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
@@ -142,45 +143,6 @@
          y="327">$</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
-       x="105.328"
-       y="167"
-       id="cardText"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="line1"
-         x="105.328"
-         y="167">------------CardTextLine1------------</tspan><tspan
-         sodipodi:role="line"
-         x="105.328"
-         y="182"
-         id="line2">------------CardTextLine1------------</tspan><tspan
-         sodipodi:role="line"
-         x="105.328"
-         y="197"
-         id="line3">------------CardTextLine1------------</tspan><tspan
-         sodipodi:role="line"
-         x="105.328"
-         y="212"
-         id="line4">------------CardTextLine1------------</tspan><tspan
-         sodipodi:role="line"
-         x="105.328"
-         y="227"
-         id="line5">------------CardTextLine1------------</tspan><tspan
-         sodipodi:role="line"
-         x="105.328"
-         y="242"
-         id="line6">------------CardTextLine1------------</tspan><tspan
-         sodipodi:role="line"
-         x="105.328"
-         y="257"
-         id="line7">------------CardTextLine1------------</tspan><tspan
-         sodipodi:role="line"
-         x="105.328"
-         y="272"
-         id="line8">------------CardTextLine1------------</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
        id="cardTitle"
        sodipodi:linespacing="125%"
@@ -188,5 +150,51 @@
          xlink:href="#labelTextPath"
          startOffset="50%"
          id="textPath7189">------cardTitle------</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       x="105.32832"
+       y="234.84399"
+       id="cardText"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="line1"
+         x="105.32832"
+         y="234.84399">------------CardTextLine1------------</tspan><tspan
+         sodipodi:role="line"
+         x="105.32832"
+         y="249.84399"
+         id="line2">------------CardTextLine1------------</tspan><tspan
+         sodipodi:role="line"
+         x="105.32832"
+         y="264.84399"
+         id="tspan38173">------------CardTextLine1------------</tspan></text>
+    <line
+       y2="214.5"
+       style="stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-opacity:1"
+       x1="41.700314"
+       x2="169.70033"
+       y1="214.5"
+       id="separatorLine" />
+    <image
+       
+       xlink:href="victoryPoint.svg"
+       id="victoryPoints"
+       x="100.8437"
+       y="157.10315"
+       width="38.29612"
+       height="50.896847" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:URW Bookman L"
+       x="83.843697"
+       y="199.20758"
+       id="cardVictoryPointValue"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan34362-6"
+         x="83.843697"
+         y="199.20758"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:URW Bookman L;-inkscape-font-specification:URW Bookman L">2</tspan></text>
   </g>
 </svg>

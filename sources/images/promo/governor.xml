@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cardImage xsi:noNamespaceSchemaLocation="../CardImage.xsd">
   <file>MrFixNo01.svg</file>
+  <scale>0.95</scale>
+  <shadow>7</shadow>
   <behindTextBackground>false</behindTextBackground>
 </cardImage>

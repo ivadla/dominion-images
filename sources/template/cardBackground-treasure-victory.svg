@@ -14,7 +14,7 @@
    height="330.05621"
    id="svg3492"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.0 r9654"
    version="1.0"
    sodipodi:docname="cardBackground-treasure-victory.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -30,85 +30,6 @@
          style="stop-color:#1ad61a;stop-opacity:1;"
          offset="1"
          id="stop39481" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient77499">
-      <stop
-         offset="0"
-         id="stop7753"
-         style="stop-color:#58ff58;stop-opacity:1" />
-      <stop
-         offset="0.163606"
-         id="stop7755"
-         style="stop-color:#88ff88;stop-opacity:1" />
-      <stop
-         offset="0.224151"
-         id="stop7757"
-         style="stop-color:#a6ffa6;stop-opacity:1" />
-      <stop
-         offset="0.284697"
-         id="stop7759"
-         style="stop-color:#ccffcc;stop-opacity:1" />
-      <stop
-         offset="0.284697"
-         id="stop7761"
-         style="stop-color:#fffbc2;stop-opacity:1;" />
-      <stop
-         offset="0.467446"
-         id="stop7769"
-         style="stop-color:#fffae3;stop-opacity:1;" />
-      <stop
-         offset="0.51641601"
-         id="stop7771"
-         style="stop-color:#d1ffd1;stop-opacity:1" />
-      <stop
-         offset="0.54168099"
-         id="stop7773"
-         style="stop-color:#c6ffc6;stop-opacity:1" />
-      <stop
-         offset="0.571953"
-         id="stop7775"
-         style="stop-color:#bbffbb;stop-opacity:1" />
-      <stop
-         offset="0.63249898"
-         id="stop7777"
-         style="stop-color:#a8ffa8;stop-opacity:1" />
-      <stop
-         offset="0.66277099"
-         id="stop7779"
-         style="stop-color:#b9ffb9;stop-opacity:1" />
-      <stop
-         offset="0.69805199"
-         id="stop7781"
-         style="stop-color:#caffca;stop-opacity:1" />
-      <stop
-         offset="0.72832501"
-         id="stop7783"
-         style="stop-color:#d2ffd2;stop-opacity:1" />
-      <stop
-         offset="0.75792998"
-         id="stop7785"
-         style="stop-color:#daffda;stop-opacity:1" />
-      <stop
-         offset="0.78720099"
-         id="stop7787"
-         style="stop-color:#d5ffd5;stop-opacity:1" />
-      <stop
-         offset="0.81747401"
-         id="stop7789"
-         style="stop-color:#d0ffd0;stop-opacity:1" />
-      <stop
-         offset="0.87801898"
-         id="stop7791"
-         style="stop-color:#bbffbb;stop-opacity:1" />
-      <stop
-         offset="0.93489099"
-         id="stop7793"
-         style="stop-color:#89ff89;stop-opacity:1" />
-      <stop
-         offset="1"
-         id="stop7795"
-         style="stop-color:#00ff00;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -129,7 +50,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5573105"
      inkscape:cx="-36.973252"
-     inkscape:cy="59.135666"
+     inkscape:cy="161.8769"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -146,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

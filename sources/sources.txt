@@ -116,10 +116,10 @@ prosperity/loan	ArtFavor_Fist_full_of_money.svg	http://www.openclipart.org/detai
 prosperity/mint	johnny_automatic_U._S._Mint.svg	http://www.openclipart.org/detail/16533
 prosperity/monument	nicubunu_RPG_map_symbols_Arch.svg	http://www.openclipart.org/detail/11407
 prosperity/mountebank	the_travelling_quack.jpg	http://www.flickr.com/photos/42186300@N07/3986939213/in/set-72157622529478542/ (license:CC BY 2.0 By electrons_fishgils)
-prosperity/peddler
+prosperity/peddler  Ausrufer_mit_Bürsten.jpg    https://commons.wikimedia.org/wiki/File:Ausrufer_mit_B%C3%BCrsten.jpg
 prosperity/platinum
 prosperity/quarry	quarryman.svg	http://www.openclipart.org/detail/45727
-prosperity/rabble
+prosperity/rabble	liftarn_Orc.svg ork.svg	http://www.openclipart.org/detail/149161/ork-by-chrisdesign http://www.openclipart.org/detail/1192/orc-by-liftarn
 prosperity/royal seal	1293729497.svg	http://www.openclipart.org/detail/102619
 prosperity/talisman	lucky_charm.svg	http://www.openclipart.org/detail/126415
 prosperity/trade route	cibo00_International_Network_(2).svg	http://www.openclipart.org/detail/14751

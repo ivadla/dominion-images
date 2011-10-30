@@ -155,7 +155,7 @@ hinterlands/duchess	principessa.svg	http://www.openclipart.org/detail/33433/arch
 hinterlands/embassy building_12.svg http://www.openclipart.org/detail/41635/building-12-by-artfavor
 hinterlands/farmland	paisaje.svg	http://www.openclipart.org/detail/31861/landscape-with-red-farm-by-rg1024	(modified:removed garbage,black border and made the edge strait)
 hinterlands/fools gold	Pyrite-271351.jpg   https://commons.wikimedia.org/wiki/File:Pyrite-271351.jpg (by Rob Lavinsky)	(modified: background removed)
-hinterlands/haggler
+hinterlands/haggler	salesman1911.svg	http://www.openclipart.org/detail/160939/salesman---1911-by-j4p4n
 hinterlands/highway	country-side.svg	http://www.openclipart.org/detail/71455/country-side-by-netalloy
 hinterlands/ill-gotten gains
 hinterlands/inn	nicubunu_RPG_map_symbols_Inn.svg	http://www.openclipart.org/detail/11470/rpg-map-symbols:-inn-by-nicubunu
